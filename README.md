@@ -1,0 +1,2 @@
+# locijumi
+Personvārdu locījumi
